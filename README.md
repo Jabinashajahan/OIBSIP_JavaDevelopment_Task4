@@ -78,7 +78,7 @@ d) None
 **Your Score**: 4 / 5
 ---
 ## 🎬 Demo Video
-📺 [Watch Demo on YouTube](https://www.youtube.com/your-demo-link-here)
+📺 [Watch Demo on YouTube](https://youtu.be/32eR3x3Ab_8)
 
 ---
 ✅ Outcome
@@ -87,11 +87,11 @@ A functional and interactive online examination system built using Java Swing an
 ---
 
 ## 🔗 GitHub Repository
-📂 [GitHub – OIBSIP_JavaDevelopment_Task4](https://github.com/yourusername/OIBSIP_JavaDevelopment_Task1)
+📂 [GitHub – OIBSIP_JavaDevelopment_Task4](https://github.com/Jabinashajahan/OIBSIP_JavaDevelopment_Task4.git)
 
 ---
 ## 💼 LinkedIn Post
-🔗 [View LinkedIn Post](https://www.linkedin.com/in/your-linkedin-post-here)
+🔗 [View LinkedIn Post](https://www.linkedin.com/posts/jabinashajahan_oibsip-task4-onlineexaminationsystem-activity-7332465508446887937-mr24?utm_source=share&utm_medium=member_desktop&rcm=ACoAADwlJWQBrrVRyb-KEVvIFvk6qd9bXG6DgAY)
 
 ---
 
